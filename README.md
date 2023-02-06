@@ -1,4 +1,4 @@
-# Problem-Solving-Stats
+# Problem Solving Stats
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
