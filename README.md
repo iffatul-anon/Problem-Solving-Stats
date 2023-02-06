@@ -1,6 +1,6 @@
 # Problem-Solving-Stats
 
-| OJ | Username | Solve |
+| OJ | Username | | Solve |
 | -- | -------- | ----- |
 | Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 420 |
 | CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 14 |
