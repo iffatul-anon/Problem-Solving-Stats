@@ -5,7 +5,7 @@
 | Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 420 |
 | CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 14 |
 | AtCoder | [iffatul_anon](https://atcoder.jp/users/iffatul_anon) | 0 |
-| Virtual Judge | [iffatul_anon](https://vjudge.net/user/i/666975) | 22 |
+| VJudge | [iffatul_anon](https://vjudge.net/user/i/666975) | 22 |
 | LeetCode | [iffatul_anon]() | 0 |
 | SPOJ | [iffatul_anon](https://www.spoj.com/myaccount/) | 1 | 
 | LightOJ | [iffatul_anon](https://lightoj.com/user/iffatul_anon) | 7 | 
