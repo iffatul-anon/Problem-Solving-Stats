@@ -2,7 +2,7 @@
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 945 | [450](https://github.com/iffatul-anon/CodeForces) |
+| Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 1078 | [466](https://github.com/iffatul-anon/CodeForces) |
 | CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 1519 | [34](https://github.com/iffatul-anon/CodeChef) |
 | AtCoder | [iffatul_anon](https://atcoder.jp/users/iffatul_anon) | 7 | 0 |
 | VJudge | [iffatul_anon](https://vjudge.net/user/iffatul_anon) |  | 22 |
@@ -12,9 +12,9 @@
 | SPOJ | [iffatul_anon](https://www.spoj.com/myaccount/) |  | 1 |  
 | Timus OJ | [iffatul_anon](https://acm.timus.ru/author.aspx?id=341829) |  | 9 |
 | UVA | [iffatul_anon](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3) |  | 0 |
-| BeeCrowed | [iffatul_anon](https://www.beecrowd.com.br/judge/en/profile/639169) |  | [74](https://github.com/iffatul-anon/BeeCrowd) | 
+| BeeCrowed | [iffatul_anon](https://www.beecrowd.com.br/judge/en/profile/639169) |  | [150](https://github.com/iffatul-anon/BeeCrowd) | 
 | HackerEarth | [iffatul_anon]() |  | 0 |
 | HackerRank | [iffatul_anon](https://www.hackerrank.com/iffatul_anon?hr_r=1) |  | 11 |
-| Total |  |  | 628 |
+| Total |  |  | 727 |
 
-Last Updated: 1 March, 2023
+Last Updated: 10 March, 2023
