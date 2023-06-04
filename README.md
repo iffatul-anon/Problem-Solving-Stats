@@ -13,8 +13,8 @@
 | BeeCrowed | [iffatul_anon](https://www.beecrowd.com.br/judge/en/profile/639169) |  | [155](https://github.com/iffatul-anon/BeeCrowd) | 
 | HackerEarth | [iffatul_anon]() |  | 0 |
 | HackerRank | [iffatul_anon](https://www.hackerrank.com/iffatul_anon?hr_r=1) |  | 11 |
-| Toph | [iffatul_anon](https://toph.co/u/iffatul_anon) |  | 18 |
+| Toph | [iffatul_anon](https://toph.co/u/iffatul_anon) |  | 25 |
 | VJudge | [iffatul_anon](https://vjudge.net/user/iffatul_anon) |  |  |
-| Total |  |  | 863 |
+| Total |  |  | 870 |
 
 Last Updated: 5 June, 2023
