@@ -2,8 +2,8 @@
 
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 1123 | [605](https://github.com/iffatul-anon/CodeForces) |
-| CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 1569 | [34](https://github.com/iffatul-anon/CodeChef) |
+| Codeforces | [iffatul_anon](https://codeforces.com/profile/iffatul_anon)| 1231 (Pupil) | [611](https://github.com/iffatul-anon/CodeForces) |
+| CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 1569 (2 star) | [34](https://github.com/iffatul-anon/CodeChef) |
 | AtCoder | [iffatul_anon](https://atcoder.jp/users/iffatul_anon) | 7 | 3 |
 | LeetCode | [iffatul_anon]() |  | 0 |
 | LightOJ | [iffatul_anon](https://lightoj.com/user/iffatul_anon) |  | 19 |
@@ -15,6 +15,6 @@
 | HackerRank | [iffatul_anon](https://www.hackerrank.com/iffatul_anon?hr_r=1) |  | 11 |
 | Toph | [iffatul_anon](https://toph.co/u/iffatul_anon) |  | 18 |
 | VJudge | [iffatul_anon](https://vjudge.net/user/iffatul_anon) |  |  |
-| Total |  |  | 857 |
+| Total |  |  | 863 |
 
-Last Updated: 1 June, 2023
+Last Updated: 5 June, 2023
